@@ -8,3 +8,4 @@ These are my solutions to some of the codechef programming challenge platform
 |GOODBAD      |Good and Bad Persons               | https://bit.ly/2XSH5Ku | https://bit.ly/2SVLl8r |
 |FLOW006      |Sum of Digits                      | https://bit.ly/2SRqZNP | https://bit.ly/2Tr6T1O |
 |FSQRT        |Finding Square Roots               | https://bit.ly/2J1poVX | https://bit.ly/2HnLqjb |
+|FSQRT        |Finding Square Roots               | https://bit.ly/2NSQ1LA | https://bit.ly/2NVLoAu |
